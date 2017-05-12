@@ -8,15 +8,15 @@
 
 package holaMundo;
 
-class HolaMundo {
+public class HolaMundo {
 	public static void main (String[] args) {
-		Scanner num1 = new Scanner(System.in);
-		Scanner num2 = new Scanner(System.in);
-		num1.nextInt();
-		num2.nextInt();
+		protected Scanner num1 = new Scanner(System.in);
+		protected Scanner num2 = new Scanner(System.in);
+		protected num1.nextInt();
+		protected num2.nextInt();
 	}
-
-	void sumar(){
+    
+	protected void sumar(){
 	
 	}
 }
