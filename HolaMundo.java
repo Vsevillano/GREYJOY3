@@ -2,6 +2,7 @@
 * Muestra por pantalla la frase "¡Hola mundo!"
 *
 * @author Victoriano Sevillano Vega
+* @version 1.0
 */
 
 package holaMundo;
