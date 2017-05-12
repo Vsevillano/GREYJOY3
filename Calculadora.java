@@ -17,6 +17,6 @@ class HolaMundo {
 	}
 
 	void sumar(){
-	
+		//Método sumar (Pull request)
 	}
 }
