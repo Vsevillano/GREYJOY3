@@ -1,7 +1,8 @@
 # REPOSITORIO-GREYJOY
 
-## Proyecto Git Kracken.
+## Proyecto Git Kracken. 
 * Curso:2016-2017  
+* Fecha de entrega: 15/05/2017
 * Asignatura: Entornos de Desarrollo 
 * Autores: 
 * Guillermo Boquizo Sánchez
